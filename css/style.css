@@ -131,4 +131,27 @@ li {
     border: 2px dashed black;
 }
 
+/* SESTO CONTAINER */
+.container-bg-black {
+    width: 100%;
+    background-color: rgb(35, 36, 39);
+    display: flex;
+    padding-bottom: 40px;
+    padding-top: 15px;
+}
+
+.col-salmon {
+    width: 28%;
+    height: 500px;
+    background-color: salmon;
+    border: 2px dashed black;
+}
+
+.aqua {
+    width: 18%;
+    height: 500px;
+    background-color: aqua;
+    border: 2px dashed white;
+}
+
 /* FOOTER */
