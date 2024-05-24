@@ -155,3 +155,43 @@ li {
 }
 
 /* FOOTER */
+
+.container-footer {
+    margin-top: 2px;
+    width: 100%;
+    height: 110px;
+    background-color: rgb(35, 36, 39);
+    padding-top: 10px;
+    padding-top: 20px;
+}
+
+.row-footer {
+    width: 1200px;
+    margin: 0 auto;
+    height: 90px;
+    display: flex;
+    align-self: baseline;
+}
+
+
+.col-100 {
+    width: 100%;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+#logo-footer {
+    background-color: pink;
+    border: 2px dashed black;
+    padding: 10px;
+
+}
+
+#button-footer {
+    background-color: pink;
+    border: 2px dashed black;
+    padding: 10px;
+}
