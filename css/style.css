@@ -68,15 +68,45 @@ li {
 .container-bg-blue {
     max-width: 100%;
     height: 550px;
-    background-color: blue;
+    background-color: darkblue;
     display: flex;
 }
 
-#row-big-pink {
+#row-big-purple {
     width: 900px;
     margin: 0 auto;
     height: 400px;
     background-color: rgb(223, 102, 197);
     align-self: center;
     border: 2px dashed black;
+}
+
+/* SECONDO CONTAINER */
+.container-bg-white {
+    max-width: 100%;
+    height: 550px;
+    display: flex;
+}
+
+.row-main {
+    width: 1200px;
+    margin: 0 auto;
+    align-self: center;
+    display: flex;
+}
+
+.col-blue {
+    width: 60%;
+    height: 500px;
+    background-color: rgb(62, 111, 245);
+    border: 2px dashed black;
+
+}
+
+.col-pink {
+    width: 40%;
+    height: 500px;
+    background-color: pink;
+    border: 2px dashed black;
+
 }
