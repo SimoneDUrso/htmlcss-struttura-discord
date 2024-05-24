@@ -100,7 +100,6 @@ li {
     height: 500px;
     background-color: rgb(62, 111, 245);
     border: 2px dashed black;
-
 }
 
 .col-pink {
@@ -108,5 +107,11 @@ li {
     height: 500px;
     background-color: pink;
     border: 2px dashed black;
+}
 
+.container-bg-grey {
+    background-color: lightgray;
+    max-width: 100%;
+    height: 550px;
+    display: flex;
 }
